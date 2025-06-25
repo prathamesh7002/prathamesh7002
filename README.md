@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prathamesh Saharkar</h1>
-<h3 align="center">🚀 Aspiring Front-End Developer | Web Developer</h3>
+<h3 align="center">🚀 Information Technology Student</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Turning+ideas+into+code+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Building+real-world+projects+with+Django+%26+JS" alt="Typing SVG" />
