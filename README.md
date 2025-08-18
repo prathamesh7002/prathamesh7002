@@ -56,6 +56,16 @@ Eager to apply and expand my skills through real-world projects and collaborativ
 
 ---
 
+# 🏆 GitHub Achievements  
+
+![Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)  
+*Awarded for successfully merging pull requests*  
+
+![Quickdraw](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png)  
+*Awarded for closing an issue/pull request within 5 minutes*  
+
+---
+
 ### 📌 Projects
 
 - 🔐 *Login & Signup System* – HTML/CSS UI for user auth simulation  
