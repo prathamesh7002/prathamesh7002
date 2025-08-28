@@ -56,13 +56,23 @@ Eager to apply and expand my skills through real-world projects and collaborativ
 
 ---
 
-# 🏆 GitHub Achievements  
+## Quickdraw and Pull Shark achievements.
 
-![Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)  
-*Awarded for successfully merging pull requests*  
-
-![Quickdraw](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png)  
-*Awarded for closing an issue/pull request within 5 minutes*  
+<table>
+  <tr>
+    <td align="left">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90" alt="Pull Shark"/>
+      <b> Pull Shark</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90" alt="Quickdraw"/>
+      <b> Quickdraw</b>
+    </td>
+  </tr>
+</table>
+  
 
 ---
 
