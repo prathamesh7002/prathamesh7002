@@ -125,3 +125,8 @@ Eager to apply and expand my skills through real-world projects and collaborativ
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,100:1e90ff&height=120&section=footer"/>
 </p>
+
+## My Pull Requests
+
+👉 [View my GitHub Pull Requests](https://github.com/prathamesh7002?tab=pulls)
+
